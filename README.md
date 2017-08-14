@@ -1,5 +1,7 @@
 # resetrepo
 What have you done to that poor local github repo?
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+
 
 
 `reset_repo.sh` implements the latest in machine learning `{{ buzzword }}` techniques to figure out how you have ruined the local copy of a git repo.
