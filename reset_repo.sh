@@ -11,7 +11,7 @@ repo=${PWD##*/}
 
 cd ..
 
-mv $repo ~/$TRASH_PATH/$repo$(date)
+mv $repo "~/$TRASH_PATH/$repo$(date)"
 
 git clone git@github.com:$GITHUB_ORG/$repo.git
 
