@@ -6,6 +6,8 @@ What have you done to that poor local github repo?
 
 
 ## Installation Instructions
+*NB* make sure to set the environment variable `$GITHUB_ORG`, we've seen mixed results in some edge cases due to the varying nature of system setups.
+
 0. If you're running a UNIX like OS you can use the automated installer like so: `curl https://raw.githubusercontent.com/k3ypad/resetrepo/master/install.sh | sudo bash`
 
 1. For manual installation, clone down the repo.
